@@ -1,0 +1,104 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\Debug\cep.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cep.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cep.map</FILE>
+  <FILE>cep.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>35</LINE></MAIN>
+  <EEPROM_Increment><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>641</LINE></EEPROM_Increment>
+  <delay200ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>519</LINE></delay200ms>
+  <send_command><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>465</LINE></send_command>
+  <delay20ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>552</LINE></delay20ms>
+  <delay10ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>563</LINE></delay10ms>
+  <delay50ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>541</LINE></delay50ms>
+  <main_loop><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>104</LINE></main_loop>
+  <Read_Current><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>295</LINE></Read_Current>
+  <Check_Current_Zone><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>314</LINE></Check_Current_Zone>
+  <Handle_Current_Condition><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>331</LINE></Handle_Current_Condition>
+  <overload_detected><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>227</LINE></overload_detected>
+  <Request><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>586</LINE></Request>
+  <Response><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>593</LINE></Response>
+  <Receive_Data><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>606</LINE></Receive_Data>
+  <Update_Display><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>373</LINE></Update_Display>
+  <delay2s><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>504</LINE></delay2s>
+  <HEAT_MODE><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>136</LINE></HEAT_MODE>
+  <COOL_MODE><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>159</LINE></COOL_MODE>
+  <STABLE_MODE><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>182</LINE></STABLE_MODE>
+  <heat_full><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>146</LINE></heat_full>
+  <heat_high><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>150</LINE></heat_high>
+  <heat_med><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>154</LINE></heat_med>
+  <FAN_UPDATE><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>189</LINE></FAN_UPDATE>
+  <cool_full><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>169</LINE></cool_full>
+  <cool_high><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>173</LINE></cool_high>
+  <cool_med><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>177</LINE></cool_med>
+  <GAS_DETECTED><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>205</LINE></GAS_DETECTED>
+  <Fan_Low><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>219</LINE></Fan_Low>
+  <Fan_Med><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>212</LINE></Fan_Med>
+  <Fan_Full><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>198</LINE></Fan_Full>
+  <lcd_clear><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>459</LINE></lcd_clear>
+  <send_data><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>474</LINE></send_data>
+  <Wait_ADC><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>301</LINE></Wait_ADC>
+  <Set_Danger_Zone><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>323</LINE></Set_Danger_Zone>
+  <Set_Risk_Zone><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>327</LINE></Set_Risk_Zone>
+  <Increment_Overload_Counter><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>341</LINE></Increment_Overload_Counter>
+  <No_Overload_Yet><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>352</LINE></No_Overload_Yet>
+  <Reduce_Speed><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>355</LINE></Reduce_Speed>
+  <Skip_Motor_Reduction><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>369</LINE></Skip_Motor_Reduction>
+  <Skip_Fan_Reduction><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>368</LINE></Skip_Fan_Reduction>
+  <delay100ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>530</LINE></delay100ms>
+  <convert_to_ascii_slow><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>483</LINE></convert_to_ascii_slow>
+  <show_heating><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>415</LINE></show_heating>
+  <show_cooling><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>424</LINE></show_cooling>
+  <line1_done><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>432</LINE></line1_done>
+  <delay5ms><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>574</LINE></delay5ms>
+  <TenLoop_slow><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>485</LINE></TenLoop_slow>
+  <OneDigit_slow><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>491</LINE></OneDigit_slow>
+  <outer_2s><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>506</LINE></outer_2s>
+  <mid_2s><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>508</LINE></mid_2s>
+  <inner_2s><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>510</LINE></inner_2s>
+  <d1_200><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>521</LINE></d1_200>
+  <d2_200><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>523</LINE></d2_200>
+  <d1_100><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>532</LINE></d1_100>
+  <d2_100><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>534</LINE></d2_100>
+  <d1_50><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>543</LINE></d1_50>
+  <d2_50><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>545</LINE></d2_50>
+  <d1_20><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>554</LINE></d1_20>
+  <d2_20><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>556</LINE></d2_20>
+  <d1_10><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>565</LINE></d1_10>
+  <d2_10><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>567</LINE></d2_10>
+  <d1_5><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>576</LINE></d1_5>
+  <d2_5><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>578</LINE></d2_5>
+  <Wait_Low1><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>595</LINE></Wait_Low1>
+  <Wait_High1><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>598</LINE></Wait_High1>
+  <Wait_Low2><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>601</LINE></Wait_Low2>
+  <Read_Loop><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>609</LINE></Read_Loop>
+  <Wait_BitStart><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>610</LINE></Wait_BitStart>
+  <Wait_High><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>613</LINE></Wait_High>
+  <delay_30us><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>633</LINE></delay_30us>
+  <Bit_High><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>622</LINE></Bit_High>
+  <Bit_Low><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>619</LINE></Bit_Low>
+  <Bit_Done><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>625</LINE></Bit_Done>
+  <Wait_End><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>626</LINE></Wait_End>
+  <d30><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>635</LINE></d30>
+  <EEWait><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>642</LINE></EEWait>
+  <WaitWrite><FILE>C:\Users\Haroon Traders\OneDrive\Documents\mpi cep\cep\cep\main.asm</FILE><LINE>657</LINE></WaitWrite>
+ </LABELS>
+</ASSEMBLER_INFO>
